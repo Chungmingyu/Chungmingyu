@@ -1,15 +1,18 @@
+<div align="right">
+ 
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChungmingyu&count_bg=%230002FF&title_bg=%23FF0000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
 
 <div align="center">
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&animation=blinking&text=Hello!&fontSize=120)
 
 
-  
+
 ## 👋 MIN GYU 👋 
   
-
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChungmingyu&count_bg=%230002FF&title_bg=%23FF0000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+**2000.03.26** ~
   
 
  #### 🎓 국립금오공과대학교 졸업 (19.02 ~ 24. 08)  
