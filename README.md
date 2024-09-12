@@ -28,8 +28,7 @@
 
 **24.07.11~**
   
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={ktfig7023})](https://solved.ac/ktfig7023)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ktfig7023)](https://solved.ac/ktfig7023/)
   
   <br>
 
