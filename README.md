@@ -50,6 +50,17 @@
 </div>
 
 <div align="center">
+
+## 📜 CERTIFICATIONS 📜
+
+| 자격증명 | 발급기관 | 취득일 |
+|----------|----------|--------|
+| SQLD (SQL 개발자) | 한국데이터산업진흥원 | 2025.04 |
+
+</div>
+
+
+<div align="center">
   
   ## 🛠 SKILLS & TECH STACK 🛠
 
