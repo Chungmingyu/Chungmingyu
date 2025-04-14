@@ -53,10 +53,9 @@
 
 ## 📜 CERTIFICATIONS 📜
 
-| 자격증명 | 발급기관 | 취득일 |
-|----------|----------|--------|
-| SQLD (SQL 개발자) | 한국데이터산업진흥원 | 2025.04 |
+<img src="https://img.shields.io/badge/SQLD-한국데이터산업진흥원-orange?style=flat-square"/>
 
+<br>
 </div>
 
 
