@@ -1,9 +1,3 @@
-<div align="right">
- 
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChungmingyu&count_bg=%230002FF&title_bg=%23FF0000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
-
 <div align="center">
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&animation=blinking&text=Hello!&fontSize=120)
@@ -53,7 +47,8 @@
 
 ## 📜 CERTIFICATIONS 📜
 
-<img src="https://img.shields.io/badge/SQLD-한국데이터산업진흥원-orange?style=flat-square"/>
+🧾 SQLD (SQL 개발자)
+<sub style="color:gray">발급기관: 한국데이터산업진흥원</sub>
 
   <br> 
   <br>
