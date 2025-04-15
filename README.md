@@ -48,9 +48,9 @@
 ## 📜 CERTIFICATIONS 📜
 
 🧾 SQLD (SQL 개발자)
-<sub style="color:gray">발급기관: 한국데이터산업진흥원</sub>
-
   <br> 
+<sub>발급기관: 한국데이터산업진흥원</sub>
+
   <br>
 
 </div>
