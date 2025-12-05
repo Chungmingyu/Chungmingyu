@@ -66,6 +66,7 @@
 <br>
 
 ## 📜 Certificates
+* **ADSP(데이터 분석 준전문가)** - 한국데이터산업진흥원 `2025.11`
 * **SQLD (SQL 개발자)** - 한국데이터산업진흥원 `2025.04`
 * **높이 조절 쇼핑카트 디자인 특허 출원** - 특허청 `2024.04`
 * **TRIZ Level 2** - 한국트리즈협회 `2023.08`
@@ -156,17 +157,6 @@
 
 <br>
 
-## 📊 Stats & Rank
-<div align="center">
-  <table >
-    <tr>
-      <td align="center"><a href="https://solved.ac/ktfig7023/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ktfig7023" /></a></td>
-      <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=Chungmingyu&show_icons=true&theme=radical" /></td>
-    </tr>
-  </table>
-</div>
-
-<br>
 
 ## 📫 Contact
 <div align="center">
